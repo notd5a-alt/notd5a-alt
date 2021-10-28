@@ -1,9 +1,7 @@
 ![](header.png)
 
 # Personal Details
-My name is Ahmad Abu Shawar. You can contact me @ ![ahmadabushawar21@gmail.com]. I am currently residing in the UAE.
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notd5a-alt)](https://github.com/anuraghazra/github-readme-stats)
-
+My name is Ahmad Abu Shawar. You can contact me @ [here](ahmadabushawar21@gmail.com). I am currently residing in the UAE.
 
 #  Projects
 
@@ -28,6 +26,10 @@ My name is Ahmad Abu Shawar. You can contact me @ ![ahmadabushawar21@gmail.com].
 ## Passions
 - All manner of things related to Cars and Driving them :)
 - Software development, programming
+
+## Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notd5a-alt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## How to contact me:
