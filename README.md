@@ -14,13 +14,15 @@ My name is Ahmad Abu Shawar. You can contact me @ [here](ahmadabushawar21@gmail.
 - Python
 - C /C++
 
-### Frameworks, top being i know them really well and bottom meaning i dabbled in it
-- `$ add --framwork "Vaadin" --language "Java" --project "Codename Crypt"`
-- `$ add --framwork "Flutter" --language "Dart" --project "Codename Savior"`
-- `$ add --framework "SDL" --language "C" --project "Codename CGOL"`
+### Frameworks
+```sh
+$ add --framwork "Vaadin" --language "Java" --project "Codename Crypt"
+$ add --framwork "Flutter" --language "Dart" --project "Codename Savior"
+$ add --framework "SDL" --language "C" --project "Codename CGOL"
+```
 
 ### Things im hoping to learn
-- Rust
+- Rust and developing projects in that language
 - 
 
 ## Passions
@@ -28,8 +30,12 @@ My name is Ahmad Abu Shawar. You can contact me @ [here](ahmadabushawar21@gmail.
 - Software development, programming
 
 ## Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notd5a-alt)](https://github.com/anuraghazra/github-readme-stats)
+<a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a-alt&theme=radical" />
+</a>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&theme=radical" />
+</a>
 
 
 ## How to contact me:
