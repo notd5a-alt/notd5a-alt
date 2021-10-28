@@ -1,11 +1,36 @@
 ![](header.png)
-- 👋 Hi, I’m @notd5a-alt
-- 👀 I’m interested in Cyber Security, IoT and Distributed Computing
-- 🌱 I’m currently in Second year of University, at the University of Leeds
-- 💞️ I’m looking to collaborate on any IoT and Security Projects.
-- 📫 How to reach me through my email: ahmadabushawar21@gmail.com
 
-<!---
-notd5a-alt/notd5a-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Personal Details
+My name is Ahmad Abu Shawar. You can contact me @ ![ahmadabushawar21@gmail.com]. I am currently residing in the UAE.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notd5a-alt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#  Projects
+
+
+## Skills
+### Programming languages
+- Java
+- Go
+- Dart
+- Python
+- C /C++
+
+### Frameworks, top being i know them really well and bottom meaning i dabbled in it
+- `$ add --framwork "Vaadin" --language "Java" --project "Codename Crypt"`
+- `$ add --framwork "Flutter" --language "Dart" --project "Codename Savior"`
+- `$ add --framework "SDL" --language "C" --project "Codename CGOL"`
+
+### Things im hoping to learn
+- Rust
+- 
+
+## Passions
+- All manner of things related to Cars and Driving them :)
+- Software development, programming
+
+
+## How to contact me:
+
+
+
