@@ -1,20 +1,12 @@
 ![](header.png)
 
+#  Pinned Projects
 
-#  Featured Projects
-
-## Skills
-### Programming languages
-- Java
-- Go
-- Dart
-- Python
-- C /C++
 
 ### Frameworks
 ```sh
-$ add --framwork "Vaadin" --language "Java" --project "Codename Crypt"
-$ add --framwork "Flutter" --language "Dart" --project "Codename Savior"
+$ add --framework "Vaadin" --language "Java" --project "Codename Crypt"
+$ add --framework "Flutter" --language "Dart" --project "Codename Savior"
 $ add --framework "SDL" --language "C" --project "Codename CGOL"
 ```
 
@@ -28,8 +20,13 @@ $ add --framework "SDL" --language "C" --project "Codename CGOL"
 - All manner of things related to Cars and Driving them :)
 - Software development, programming
 
-## Stats
+## Skills
 For this account and my old [account](github.com/notd5a) of which i got locked out of :)
+- Java
+- Go
+- Dart
+- Python
+- C /C++
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a-alt&theme=radical" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&theme=radical" />
