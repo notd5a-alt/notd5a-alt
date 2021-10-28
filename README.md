@@ -30,7 +30,8 @@ $ add --framework "SDL" --language "C" --project "Codename CGOL"
 For this account and my old account of which i got locked out of :)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a-alt&layout=compact&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a-alt&theme=radical" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&theme=radical" />
 
 ## How to contact me:
 
