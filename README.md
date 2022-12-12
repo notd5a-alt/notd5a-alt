@@ -21,7 +21,7 @@ $ add --framework "SDL" --language "C" --project "Codename CGOL"
 - Software development, programming
 
 ## Skills
-For this account and my old [account](github.com/notd5a) of which i got locked out of :)
+For this account and my old [account](https://github.com/notd5a) of which i got locked out of :)
 - Java
 - Go
 - Dart
