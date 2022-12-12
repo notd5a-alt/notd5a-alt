@@ -32,4 +32,4 @@ For this account and my old [account](https://github.com/notd5a) of which i got 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&theme=radical" />
 
 ## How to contact me:
-My [Email](ahmadabushawar21@gmail.com) and my [Portfolio Website](github.com/notd5a-alt)
+My [Email](ahmadabushawar21@gmail.com)
