@@ -1,8 +1,5 @@
 ![](header.png)
 
-#  Pinned Projects
-
-
 ### Frameworks
 ```sh
 $ add --framework "Vaadin" --language "Java" --project "Crypt"
