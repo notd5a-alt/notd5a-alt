@@ -6,7 +6,7 @@
 ### Frameworks
 ```sh
 $ add --framework "Vaadin" --language "Java" --project "Crypt"
-$ add --framework "Reflex" --language "Python" --project "DeScam:
+$ add --framework "Reflex" --language "Python" --project "DeScam"
 $ add --framework "SDL" --language "C" --project "Codename CGOL"
 ```
 
