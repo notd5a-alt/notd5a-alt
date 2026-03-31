@@ -8,16 +8,18 @@ $ add --framework "SDL" --language "C" --project "Codename CGOL"
 ```
 
 ### Things i want to learn
-- Learn Rust and develop projects in that language
-- Android and IOS development
+- Operating Systems Development
 - Machine Learning and AI
-- Net Code and IoT
+- Network Programming
+- IOT
 - Cyber Security
 
 ## Passions
 - All manner of things related to Cars and Driving them :)
 - Application of Machine Learning and AI Techniques in Cybersecurity
-- Software development, programming
+- Software development
+- Systems Level Programming
+- Distributed Systems
 
 ## Skills
 For this account and my old [account](https://github.com/notd5a) of which i got locked out of :)
