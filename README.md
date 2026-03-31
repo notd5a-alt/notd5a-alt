@@ -31,8 +31,5 @@ For this account and my old [account](https://github.com/notd5a) of which i got 
 - Python
 - C / C++
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a-alt&theme=radical" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notd5a&theme=radical" />
-
 ## How to contact me:
 My [Email](ahmadabushawar21@gmail.com)
